@@ -1,8 +1,10 @@
 - 👋 Hi, nama saya Teguh Subagyo
-- 👀 email saya : teguhsubagyo11@gmail.com
-- 🌱 sedang belajar pemrograman PHP, Javascript dan API
-
-- 📫 email saya : teguhsubagyo11@gmail.com
+ 📫 email saya : teguhsubagyo11@gmail.com
+- 🌱 program sederhana untuk rest-api 
+terdapat kekurangan yaitu diantaranya :
+1. tidak ada fitur login 
+2. jika hapus penjualan_detail pada data barang belum bisa update
+3. belum memakai token untuk aksesnya
 
 <!---
 Disini terdapat file rest-api yang menampilkan file json dan ini pertama saya buat dan saya pelajari.
