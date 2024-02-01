@@ -1,5 +1,3 @@
-- 👋 Nama saya : Teguh Subagyo
+
 - 📫 email saya : teguhsubagyo11@gmail.com
 - linkedin : https://www.linkedin.com/in/teguh-subagyo-642018129 
-- instagram : https://www.instagram.com/teguh.subagyo_/
-- Twitter : https://twitter.com/TeguhSubagyo6?s=09
